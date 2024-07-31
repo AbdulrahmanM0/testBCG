@@ -1,0 +1,21 @@
+/* start header */
+header{
+    position: absolute;
+    top: 0;
+    width: 100%;
+}
+.nav{
+    list-style: none;
+    width: 250px;
+}
+/* end header */
+
+/* start bannar */
+.bannar{
+    background-image: url(./asstes/images/Logo/designer_1.png);
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-position: center right;
+
+}
+/* end bannar */
